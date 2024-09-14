@@ -25,7 +25,7 @@ Scikit-learn
 ----------------
 Clone the repository:
 
-git clone https://github.com/Panchadip-128/Deep-Learning-Image_Classifier-with-CIFAR-10.git
+git clone https://github.com/Panchadip-128/Deep-Learning-Image-Classifier-with-CIFAR-10.git
 
 5)Install the required packages:
 -------------------------------
